@@ -27,7 +27,7 @@ O sistema permite realizar as seguintes ações no banco de dados:
 
 - Faça o download do arquivo pelo github e abra a pasta no terminal.
 
-- Instalar o node pelo link: 
+- Instalar o node pelo link: https://nodejs.org/pt-br
 
 - Você pode verificar se o node ja está instalado com o comando no terminal; <br>
 ``` 
